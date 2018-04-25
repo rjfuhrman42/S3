@@ -1,0 +1,101 @@
+*{
+}
+
+body {
+	background-image: url("https://i.imgur.com/aFkmViV.jpg");
+	background-size: /*1920px 1080px*/ cover;
+	background-repeat: no-repeat;
+	font-family: consolas;
+}
+
+a:link {
+	color: #d1dae0;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #d1dae0;
+	text-decoration; none;
+}
+
+a:hover {
+	color: grey;
+	background-color: #000000; 
+	text-decoration: none;
+}
+
+.beginning {
+	width: 200px;
+	padding-left: 8px;
+	padding-top: 6px;
+	display: block;
+	font-family: consolas;
+	list-style-type: none;
+	text-align: left;
+}
+.school {
+	width: 50px;
+	height: 50px;
+	padding-left: 6px;
+}
+
+.sleep, .food , .chill {
+	width: 40px;
+	height: 100px;
+	padding-left: 90px;
+}
+
+#prompt, #searchbar {
+	float: left;
+	height: 16px;
+	padding-top: 0px;
+	padding-left: 6px;
+}
+
+input[type=text] {
+	border: none;
+	color: #d1dae0;
+	font-size: 12px;
+	font-family: consolas;
+	background-color: #1A1A1A;
+	line-height: 12px;
+}
+
+ul {
+	list-style: none;
+	padding: 6px 10px 8px 6px;
+	margin: 0;
+	width: 180px;
+	float: left;
+}
+
+li {
+	float: left;
+	padding: 2px;
+	display: inline;
+}
+
+.alignment{
+		/* margin: 0px auto; <!-- centers the table-->
+		width: 1273px; */
+	margin: auto;
+	/*width: 500px;
+	padding-top: 260px;*/
+}
+
+.terminal {
+    position: absolute;
+	border: solid 6px;
+	
+	border-color: #4F434F;
+	background-color: #1A1A1A;
+	color: #d1dae0;
+	
+	font-size: 13px;
+	
+	width: 500px;
+	height: 300px;
+}
+
+
+.show {display:block;}

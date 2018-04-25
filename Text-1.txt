@@ -1,0 +1,14 @@
+		<ul>
+		<li><button class="dropbtn">School</button></li>
+		<div class="dropdown-content">
+			<a href="https://elearn.tntech.edu/d2l/home">Ilearn</a>
+			<a href="https://outlook.office.com/owa/">Mail</a>
+			<a href="http://mboshart.dyndns.org/~mboshart/4320examples.html">lectures</a>
+		</div>
+			<li><button class="dropbtn">Fun</button></li>
+		<div class="dropdown-content-2">
+			<a href="https://www.youtube.com">Youtube</a>
+			<a href="https://www.reddit.com">Reddit</a>
+			<a href="http://www.twitch.tv">Twitch</a>
+		</div>
+		</ul>
